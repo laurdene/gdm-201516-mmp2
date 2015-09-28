@@ -1,6 +1,5 @@
 Résumé
 ===
----
 ###Biografie
 
 ![Laurens De Neve](https://i.vimeocdn.com/portrait/7141687_300x300.webp "Laurens De Neve")
