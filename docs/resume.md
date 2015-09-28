@@ -1,6 +1,7 @@
 Résumé
 ===
-###Biografie
+Biografie
+---
 
 ![Laurens De Neve](https://i.vimeocdn.com/portrait/7141687_300x300.webp "Laurens De Neve")
 
@@ -8,16 +9,16 @@ Laurens De Neve (18 januari 1994) is student **Grafische en Digitale Media** aan
 
 Na zijn algemene secundaire opleiding aan het Atheneum van Gentbrugge studeerde hij een jaar Geschiedenis aan de Universiteit van Gent. Hierna besloot hij een meer toekomstgerichte opleiding te volgen aan de Arteveldehogeschool.
 
+Portfolio
 ---
-###Portfolio
 [Vimeo-Profiel](https://vimeo.com/laurensdeneve)
 
+Werkervaring
 ---
-###Werkervaring
 Tot op heden geen
 
+Kennis webtechnologieën
 ---
-###Kennis webtechnologieën
 
 | Taal         | Kennisniveau |
 |--------------|--------------|
@@ -29,8 +30,8 @@ Tot op heden geen
 
 * Vetrouwd met Git
 
+Softwarekennis
 ---
-###Softwarekennis
 
 ####Adobe
 
@@ -52,8 +53,8 @@ Tot op heden geen
 
 * Office
 
+Contactinformatie
 ---
-###Contactinformatie
 
 Laurens De Neve
 
