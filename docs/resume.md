@@ -39,7 +39,6 @@ Tot op heden geen
 | Illustrator CC   | Basis        |
 | InDesign CC      | Gevorderd    |
 | Photoshop CC     | Basis        |
-|------------------|--------------|
 | After Effects CC | Basis        |
 | Audition CC      | Basis        |
 | Premiere Pro CC  | Gevorderd    |
